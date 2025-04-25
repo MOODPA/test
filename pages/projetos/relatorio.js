@@ -1,6 +1,6 @@
-import Head from 'next/head';
-import Header from '../components/header';
-import Footer from '../components/footer';
+import head from 'next/head';
+import header from '../components/header';
+import footer from '../components/footer';
 import { useState } from 'react';
 
 export default function Relatorio() {
