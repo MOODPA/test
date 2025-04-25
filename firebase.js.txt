@@ -1,0 +1,16 @@
+// firebase.js
+import { initializeApp } from 'firebase/app';
+
+const firebaseConfig = {
+  apiKey: "AIzaSyBFnyExKMsjsZwURuTCtE2HkRfqx4sH_HQ",
+  authDomain: "mood-pa.firebaseapp.com",
+  projectId: "mood-pa",
+  storageBucket: "mood-pa.firebasestorage.app",
+  messagingSenderId: "769926719312",
+  appId: "1:769926719312:web:5e7512d6818b81f26a6e55",
+  measurementId: "G-2TZGE0K04X"
+};
+
+const app = initializeApp(firebaseConfig);
+
+export default app;
