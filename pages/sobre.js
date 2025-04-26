@@ -126,7 +126,7 @@ export default function Sobre() {
         </section>
       </main>
       
-      <Footer />
+      <footer />
     </div>
   );
 }

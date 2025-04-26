@@ -71,7 +71,7 @@ export default function Relatorio() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <Header currentPage="projetos" />
+      <header currentPage="projetos" />
       
       <main className="flex-grow">
         {/* Hero Section */}
