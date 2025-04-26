@@ -1,7 +1,7 @@
 import { useTheme } from '../hooks/useTheme';
 import { useState } from 'react';
 
-const Header = ({ currentPage = 'home' }) => {
+const header = ({ currentPage = 'home' }) => {
   const { isDarkMode, toggleTheme } = useTheme();
   const [isMenuOpen, setIsMenuOpen] = useState(false);
 
