@@ -1,6 +1,6 @@
 import Head from 'next/head';
 import header from '../components/header';
-import footer from '../components/hooter';
+import footer from '../components/footer';
 
 export default function Sobre() {
   return (
