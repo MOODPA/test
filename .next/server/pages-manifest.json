@@ -1,13 +1,13 @@
 {
-  "/_error": "pages/_error.js",
-  "/": "pages/index.js",
   "/_app": "pages/_app.js",
   "/admin": "pages/admin.js",
+  "/_error": "pages/_error.js",
+  "/": "pages/index.js",
   "/login": "pages/login.js",
   "/dashboard": "pages/dashboard.js",
-  "/projetos/relatorio": "pages/projetos/relatorio.js",
-  "/sobre": "pages/sobre.js",
   "/projetos": "pages/projetos.js",
   "/projetos/[id]": "pages/projetos/[id].js",
+  "/sobre": "pages/sobre.js",
+  "/projetos/relatorio": "pages/projetos/relatorio.js",
   "/_document": "pages/_document.js"
 }
